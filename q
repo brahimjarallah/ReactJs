@@ -1,4 +1,4 @@
-This is a Redux based application with reat 
+This is a Redux based application with react 
 
 # Getting Started with Create React App
 
